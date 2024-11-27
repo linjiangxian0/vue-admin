@@ -33,14 +33,14 @@ const overviewItems: AnalysisOverviewItem[] = [
     title: '访问量',
     totalTitle: '总访问量',
     totalValue: 500_000,
-    value: 20_000,
+    value: 22_000,
   },
   {
     icon: SvgDownloadIcon,
     title: '下载量',
     totalTitle: '总下载量',
     totalValue: 120_000,
-    value: 8000,
+    value: 5000,
   },
   {
     icon: SvgBellIcon,
